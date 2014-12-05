@@ -119,6 +119,9 @@ To paraphrase Eric S. Raymond on the issue, we see systemd being very
 prone to mission creep and bloat and likely to turn into a nasty
 hairball over the longer term.
 
+Pour paraphraser Eric S. Raymond à ce propos, nous regardons systemd comme
+étant un projet du type "mission pour faire  
+
 We like controlling the startup of the system with shell scripts that
 are readable, because readability grants a certain level of power and
 consciousness for those among us who are literate, and we believe that
