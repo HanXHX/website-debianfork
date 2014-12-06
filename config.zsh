@@ -1,5 +1,5 @@
 TITLE="Devuan - GNU/Linux par des admins vétérans d'UNIX"
-DESCRIPTION="Devuan est une distribution GNU/Linux qui a pour but de remplacer Debian pour préserver la liberté d'init et éviter le bridage par par systemd. Devuan iest développé par et pour des admins vétérans d'UNIX"
+DESCRIPTION="Devuan est une distribution GNU/Linux qui a pour but de remplacer Debian pour préserver la liberté d'init et éviter le bridage par systemd. Devuan est développé par et pour des admins vétérans d'UNIX"
 KEYWORDS="debian, systemv, sysv, systemd, gnu, linux, distro, politics"
 
 #
